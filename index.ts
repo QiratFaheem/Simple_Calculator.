@@ -2,7 +2,7 @@
 import inquirer from "inquirer";
 
 //printing a welcome message
-console.log("\n\tWellcome To \'FizraFaheem\' -CLI Simple Calculator\n");
+console.log("\n\tWellcome To \'QiratFaheem\' -CLI Simple Calculator\n");
 
 // Asking Question from user through inquirer
 
